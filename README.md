@@ -15,6 +15,7 @@ in a single click.
 Check out [FRONTEND LIVE DEMO](https://synamaticjj-frontend.herokuapp.com/) here!!
 
 
+![image](https://user-images.githubusercontent.com/103692404/163651109-016e4e49-27b0-4898-9d98-cf0efc56beea.png)
 
 ## Tech used
 

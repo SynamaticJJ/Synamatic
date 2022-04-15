@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Imgmenu from '../../assets/img/imgmenu.svg';
+import Imgmenu from '../../assets/img/menu.svg';
 import { useDispatch } from 'react-redux';
 import { push } from 'connected-react-router';
 const MenuIcon = () => {

@@ -29,7 +29,7 @@ Check out [FRONTEND LIVE DEMO](https://gd-frontend.jwalu12.repl.co/) here!!
 1. Git Clone
 
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone https://github.com/SynamaticJJ/Synamatic.git
 ```
 
 2. Backend setting

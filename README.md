@@ -12,7 +12,7 @@ in a single click.
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://synamaticjj-frontend.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://gd-frontend.jwalu12.repl.co/) here!!
 
 
 ![image](https://user-images.githubusercontent.com/103692404/163651109-016e4e49-27b0-4898-9d98-cf0efc56beea.png)
